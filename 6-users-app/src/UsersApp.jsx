@@ -1,3 +1,4 @@
+import React from 'react';
 import { useReducer } from 'react';
 import { Navigate, Route, Routes } from 'react-router-dom';
 import { useAuth } from './auth/hooks/useAuth';
