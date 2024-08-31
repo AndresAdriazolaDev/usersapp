@@ -6,7 +6,7 @@ export const Navbar = ({ login, handlerLogout }) => {
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid">
         <a className="navbar-brand" href="/">
-          Yury's Mail HR
+          Ayudantía App
         </a>
         <button
           className="navbar-toggler"
